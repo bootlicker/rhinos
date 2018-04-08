@@ -1,21 +1,19 @@
-# Elephants
+# Rhinos
 
-A minimal Hugo theme using the Ubuntu font.
+A minimal Hugo theme based on the theme called _Elephants_ by Benny Mei.
 
 ## Features
 * No JavaScript
 * High Contrast
+* No fonts that download data from Google
+* Header space for pages
+* A distinction between pages and posts
 
 ## Installation
 In the folder of your Hugo site, run:
 ```
-    git submodule add https://gitlab.com/meibenny/elephants.git themes/elephants
+    git submodule add https://github.com/bootlicker/rhinos.git themes/rhinos
 ```
-
-## Dedication
-To [Evelyn](https://www.evelynyeung.com) - the world's most extraordinary woman.  
-You've helped me through thick and thin.  
-There's no way I would have gotten so far without you.
 
 ## License
 Released under the MIT License
