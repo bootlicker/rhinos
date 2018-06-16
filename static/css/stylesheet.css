@@ -1,5 +1,6 @@
 body {
     font-family: 'Courier', monospace;
+    line-height: 1.5rem;
     color: #ccc;
     margin: auto;
     max-width: 50em;
