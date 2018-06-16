@@ -1,8 +1,9 @@
 body {
     font-family: 'Courier', monospace;
-    color: black;
+    color: #ccc;
     margin: auto;
     max-width: 50em;
+    background-color: #000;
 }
 
 #page-title {
@@ -10,15 +11,23 @@ body {
 }
 
 #page-title h1 a, .post a {
-    color: black;
+    color: ccc;
 }
+
+a :hover{
+    background-color:#ff2e88;
+    color:#fff}, 
 
 a {
     text-decoration: none;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #ff2e88;
 }
 
 #page-title a:hover, .post a:hover {
     text-decoration: underline;
+   
 }
 
 .date-time-title {
