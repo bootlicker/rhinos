@@ -26,9 +26,12 @@ a {
     border-bottom-color: #ff2e88;
 }
 
+body a:link {
+    color: #ff9800;
+}
 
 a:visited {
-    color: #ccc;
+    color: #ff9800;
 }
 
 a:hover{
