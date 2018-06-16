@@ -1,7 +1,7 @@
-name = "Elephants"
+name = "Rhinos"
 license = "MIT"
 licenselink = "https://github.com/meibenny/elephants/blob/master/LICENSE.md"
-description = "Minimal theme using the Ubuntu font."
+description = "Minimal theme using the Courier font."
 homepage = "https://gitlab.com/meibenny/elephants"
 tags = ["blog"]
 features = ["blog"]
